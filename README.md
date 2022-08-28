@@ -6,7 +6,6 @@ Coursera Full Stack Web Development Capstone Project
 
 This project is an academic work. 
 It's my final capstone project for the **Full Stack Web Development** course on Coursera. 
-Read more at: https://www.coursera.org/learn/web-development-project.
 
 [![Build Status](https://travis-ci.org/tuhrig/mebo.svg?branch=master)](https://travis-ci.org/tuhrig/mebo)
 
@@ -19,8 +18,6 @@ Read more at: https://www.coursera.org/learn/web-development-project.
 ## Demo
 
 See the running demo at:
-
-http://mebo.mybluemix.net
 
 ## Development
 
